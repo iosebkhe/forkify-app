@@ -19,5 +19,5 @@ Check the final project:
 - Flexbox
 - Grid
 - SCSS
-- Javascript
+- Javascript (OOP approach)
 - MVC architecture
